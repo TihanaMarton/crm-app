@@ -1,0 +1,10 @@
+body {
+  font-family: 'Noto Sans', sans-serif !important;
+  font-size: 1.7rem !important;
+  background-color: rgb(223, 223, 223) !important;
+  color: white !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+

@@ -1,0 +1,19 @@
+.errorMsg {
+  color: red;
+}
+
+.btnContainer {
+  color:#17a2b8;
+  cursor: pointer;
+  font-size: 1rem;
+  margin-top: 15px;
+}
+
+.spanContainer {
+color: rgb(24, 75, 128);
+cursor: pointer;
+}
+
+.spanContainer:hover {
+  color:coral
+}
